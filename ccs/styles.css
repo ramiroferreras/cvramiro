@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+body { background-color: #E6E6E6;
+}
+
+h1,h2 {background-color: #C4C4C4 ;
+color: #005677;
+font-family: 'Roboto Mono', monospace;}
+
+span{
+  font-weight: 700;
+}
+
+footer {background-color: #005677;
+text-align: center;}
+
+header {
+  text-align: center; 
+  background-image: url(../img/campo.jpg)
+}
